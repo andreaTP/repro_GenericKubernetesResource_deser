@@ -1,0 +1,8 @@
+apiVersion: org.example/v2alpha1
+kind: Example
+metadata:
+  name: test-example-v2alpha1
+spec:
+  foo: "hello"
+  bar: 123456
+  baz: BAZZZ
